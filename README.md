@@ -37,7 +37,7 @@ Unauthorized use may constitute illegal computer intrusion under laws including 
 
 ## 🔧 Technical Overview
 Architecture:
-
+```bash
 DLLusion/
 ├── build/
 │   ├── windows/             # Target: Compromised Windows machine
@@ -56,7 +56,7 @@ DLLusion/
 │   └── generate_shellcode.sh # Generates a .bin shellcode 
 ├── go.mod 					 # Go module file
 └── README.md                # Project documentation
-
+```
 
 ### Key Features
 1. Process Injector => Advanced DLL injection using NT syscalls
