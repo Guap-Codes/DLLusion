@@ -59,10 +59,16 @@ DLLusion/
 ```
 
 ### Key Features
-1. Process Injector => Advanced DLL injection using NT syscalls
-2. Encrypted C2 	=> XOR-encrypted TCP communication
-3. Shellcode Loader => In-memory execution with RX permissions
-4. Persistence Module => Registry-based autorun installation
+```
+╔═══════════════════╦══════════════════════════════════╦══════════════════════════════════╗
+║    Component      │            Description           │       Security Considerations    ║
+╠═══════════════════╬══════════════════════════════════╬══════════════════════════════════╣
+║ Process Injector  │ DLL injection via NT syscalls    │ AV/EDR evasion                   ║
+║ Encrypted C2      │ XOR+TCP command channel          │ Basic opsec                      ║
+║ Shellcode Loader  │ RX memory execution              │ Anti-forensics                   ║
+║ Persistence       │ Registry autorun entries         │ Defense evasion                  ║
+╚═══════════════════╩══════════════════════════════════╩══════════════════════════════════╝
+```
 
 ### 🛠️ Installation Requirements
 ```bash
