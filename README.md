@@ -1,6 +1,6 @@
 # DLL Injection Framework 🔒⚙️
 
-DLLusion is a controlled experimental DLL injection research framework written in golang for studying Windows process injection techniques, defensive evasion methods, and post-exploitation tradecraft in authorized security research environments.
+DLLusion is a controlled experimental DLL injection framework written in golang for studying Windows process injection techniques, defensive evasion methods, and post-exploitation tradecraft in authorized security research environments.
 
 
 ## 🚧 Active Development Notice
