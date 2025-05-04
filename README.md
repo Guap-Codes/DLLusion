@@ -108,7 +108,7 @@ ls -lh build/{linux,windows}/
 ```
 
 Expected output:
-
+```bash
 build/
 ├── linux/
 │   ├── controller       # Linux C2 client
@@ -117,7 +117,7 @@ build/
 └── windows/
     ├── injected.dll     # Malicious DLL
     └── injector.exe     # Injection tool
-
+```
 
 Step 3: Deployment (Authorized Targets Only)
 
